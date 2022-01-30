@@ -89,9 +89,11 @@
             <TextBlock Text="+" FontWeight="Medium" Foreground="White"/>
         </Button>
 
-        <StackPanel Grid.Row="2" Grid.Column="1" x:Name="stack_panel">
+        <ScrollViewer Grid.Row="2" Grid.Column="1" VerticalScrollBarVisibility="Hidden">
+            <StackPanel  x:Name="stack_panel" >
 
-        </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
 
     </Grid>
 </Window>
