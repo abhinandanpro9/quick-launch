@@ -11,3 +11,5 @@ Features:
 
 Suggestions or modification requests are welcome.
 Open for collabaration.
+
+Check screenshot folder.
