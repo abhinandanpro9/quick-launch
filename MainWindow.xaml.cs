@@ -91,6 +91,8 @@ namespace Dev_Access
             InitializeComponent();
             RenderOptions.SetBitmapScalingMode(this, BitmapScalingMode.Fant);
 
+            this.Height = (System.Windows.SystemParameters.PrimaryScreenHeight * 0.95);
+
             this.Loaded += new RoutedEventHandler(MainWindow_Loaded);
             reloadApps();
 

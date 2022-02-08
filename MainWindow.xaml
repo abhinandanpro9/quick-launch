@@ -10,7 +10,7 @@
         WindowStartupLocation="Manual"
         AllowsTransparency="false"
         Opacity="1"
-        Title="Developer Tools" Height="800" Width="60"  Background="#0f0f2d">
+        Title="Developer Tools" Width="60"  Background="#0f0f2d">
     <Grid Margin="5,5,5,5">
         <Grid.RowDefinitions>
             <RowDefinition Height="25"/>
